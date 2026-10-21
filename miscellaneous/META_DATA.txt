@@ -1,0 +1,21 @@
+NAME: 
+PROJECT IDEA: STUDY HELPER
+PROJECT TYPE: MINOR PROJECT
+MAIN AUTHOR: KHUSHI SINGH
+COLLABORATOR : SHEETAL SINGH
+TECH-STACK:
+PURPOSE:
+MAIN-DIRECTORIES:
+        study-buddy/
+        │── frontend/       # React + Tailwind
+        │   ├── src/
+        │   │   ├── pages/ (Upload, Flashcards, Quiz, Dashboard)
+        │   │   ├── components/ (Card, Timer, Chart)
+        │   │   └── App.jsx
+        │── backend/        # FastAPI
+        │   ├── main.py
+        │── workflows/      # n8n exports
+        │── db/             # MongoDB schema notes
+        │── README.md
+
+OPEN API KEY: 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
