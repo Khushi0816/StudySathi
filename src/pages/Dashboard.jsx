@@ -1,5 +1,9 @@
 import React, { useState, useEffect } from "react";
+<<<<<<< HEAD
 import Navbar from "../components/Navbar";
+=======
+import NavBar from "../components/NavBar";
+>>>>>>> ebff7c21460dc25de161c8bce37fc63b8e2c71a9
 import NotesPanel from "../components/NotesPanel";
 import FlashcardBox from "../components/FlashcardBox";
 import PomodoroMini from "../components/PomodoroMini";
